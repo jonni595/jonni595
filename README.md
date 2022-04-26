@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonni595
-- 👀 I’m interested in traveling the world
-- 🌱 I’m currently learning development web
+- 👀 I’m interested in traveling the world 🛫
+- 🌱 I’m currently learning development web 💻
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
