@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jonni595
+- 👋 Hi, I’m Jonathan
 - 👀 I’m interested in traveling the world 🛫
-- 🌱 I’m currently learning development web 💻
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React JS ⚛
 
 <!---
 jonni595/jonni595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
