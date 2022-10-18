@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working on **note app**
+- 🔭 I’m currently working on **note app** 📝
 
 - 🌱 I’m currently learning **React and Tailwind**
 
