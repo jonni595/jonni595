@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">Frontend lover</h3>
+<h3 align="center">Frontend lover❤</h3>
+
+
+### About me:
 
 - 🔭 I’m currently working on **note app**
 
