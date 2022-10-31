@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **note app** 📝
 
-- 🌱 I’m currently learning **React and Tailwind**
+- 🌱 I’m currently learning **React and Typescript**
 
 - 📫 How to reach me **jonathandajome@gmail.com**
 
