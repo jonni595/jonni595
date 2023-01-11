@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working on **Accordions** 📝
+- 🔭 I am currently working on improving as a front dev 📝
 
 - 🌱 I’m currently learning **React and Typescript**
 
