@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate frontend lover ❣️from Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/@jonathandajome" target="blank"><img src="https://img.shields.io/twitter/follow/@jonathandajome?logo=twitter&style=for-the-badge" alt="@jonathandajome" /></a> </p>
-
 - 🌱 I’m currently learning **React, React Native and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jonni595.github.io/portfolio/](https://jonni595.github.io/portfolio/)
