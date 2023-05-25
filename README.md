@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate frontend lover ❣️from Colombia</h3>
 
+
+
 - 🌱 I’m currently learning **React, React Native and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jonni595.github.io/portfolio/](https://jonni595.github.io/portfolio/)
