@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend lover ❣️from Colombia</h3>
 <br/>
 <br/>
+
 - 🌱 I’m currently learning **React, React Native and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://jonni595.github.io/portfolio/](https://jonni595.github.io/portfolio/)
