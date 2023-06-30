@@ -4,8 +4,8 @@
 <br/>
 
 - 🌱 I’m currently learning **React, React Native and TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://jonni595.github.io/portfolio/](https://jonni595.github.io/portfolio/)
+<!--
+- 👨‍💻 All of my projects are available at [https://jonni595.github.io/portfolio/](https://jonni595.github.io/portfolio/) -->
 
 - 📫 How to reach me **jonathandajome@gmail.com**
 
