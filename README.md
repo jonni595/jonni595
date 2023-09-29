@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@jonathandajome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jonathandajome" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jonathan-dajome-rodriguez-7801b21b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathandajomerodriguez" height="30" width="40" /></a>
-<a href="https://instagram.com/jonathandajome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathandajome" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/jonathandajome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathandajome" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
