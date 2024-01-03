@@ -3,8 +3,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Validation form](https://github.com/jonni595/validation-form)
-- 🌱 I’m currently learning **React, React Native and TypeScript**
+<!-- - 🔭 I’m currently working on [Validation form](https://github.com/jonni595/validation-form) -->
+- 🌱 I’m currently learning **Next.js and React Native**
 - 👨‍💻 All of my projects are available at [portfolio](https://jonathan-dajome.netlify.app/)
 
 - 📫 How to reach me **jonathandajome@gmail.com**
