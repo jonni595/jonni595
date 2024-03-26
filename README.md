@@ -1,3 +1,4 @@
-<div style="padding: 10px 30px; widht: 100vw">
-  <h1 style="color: blue;">Jonathan Dajome R.</h1>
-</div>
+# Jonathan Dajome R.
+#### Frontend developer
+<img src="https://api.iconify.design/material-symbols:location-on.svg"  height="30" width="40" />
+ 
