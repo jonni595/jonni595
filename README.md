@@ -1,6 +1,6 @@
 # Jonathan Dajome R.
 #### Web developer
-📍 Cali, Colombia | 💻 2 year experience
+📍 Cali, Colombia | 💻 2 years' experience
 
 ### Contact 📫
 - **jonathandajome@gmail.com**
