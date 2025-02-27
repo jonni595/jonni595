@@ -8,7 +8,6 @@
 ### About
 I ❣️ frontend developer | I'm freelancer
 - 🌱 I’m currently learning **Next.js and React Native**
-- 👨‍💻 All of my projects are available at [portfolio](https://jonathan-dajome.netlify.app/)
 
 ### Skills
 `React` `JavaScript` `TypeScript` `Node` `HTML` `CSS` `TailwindCSS` `SASS` `Git`
