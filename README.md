@@ -1,13 +1,11 @@
 # Jonathan Dajome R.
-## Web developer
+### I ❣️ frontend development
+
 📍 Cali, Colombia
 
 ### Contact 📫
 - **jonathandajome@gmail.com**
-
-### About
-I ❣️ frontend developer | I'm freelancer
-- 🌱 I’m currently learning **Next.js and React Native**
+- X **@jonathandajome**
 
 ### Skills
 `React` `JavaScript` `TypeScript` `Node` `HTML` `CSS` `TailwindCSS` `SASS` `Git`
