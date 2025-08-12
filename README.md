@@ -4,7 +4,7 @@
 📍 Cali, Colombia
 
 ### About ^_^
-- 🌱 I’m currently learning a Nextjs
+- 🌱 I’m currently learning Nextjs
 
 ### Contact 📫
 - **jonathandajome@gmail.com**
